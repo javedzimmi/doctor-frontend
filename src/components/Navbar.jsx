@@ -32,7 +32,7 @@ const Navbar = () => {
           <li className="py-1">CONTACT</li>
         </NavLink>
         <Link
-          to="https://doctor-admin-weld.vercel.app/"
+          to="https://www.google.com/"
           className={({ isActive }) =>
             isActive
               ? "text-blue-500 border border-blue-500 rounded-full"
